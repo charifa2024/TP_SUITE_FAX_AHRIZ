@@ -1,0 +1,48 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Développeur Full Stack",
+      "company": "Atlas Digital",
+      "location": "Casablanca",
+      "type": "CDI",
+      "salary": 12000,
+      "experience": 2,
+      "createdAt": "2026-10-01",
+      "description": "Développement d'applications web avec Vue.js et Laravel au sein d'une équipe agile."
+    },
+    {
+      "id": 2,
+      "title": "Data Engineer",
+      "company": "Maghreb Data",
+      "location": "Rabat",
+      "type": "CDI",
+      "salary": 15000,
+      "experience": 3,
+      "createdAt": "2026-10-05",
+      "description": "Conception et maintenance de pipelines de données, SQL et Python."
+    },
+    {
+      "id": 3,
+      "title": "Stagiaire Développeur Front-end",
+      "company": "Safi Web Studio",
+      "location": "Safi",
+      "type": "Stage",
+      "salary": 2000,
+      "experience": 0,
+      "createdAt": "2026-10-12",
+      "description": "Stage de fin d'études : intégration d'interfaces en Vue.js."
+    },
+    {
+      "id": 4,
+      "title": "Administrateur Systèmes",
+      "company": "Ocean Tech",
+      "location": "Marrakech",
+      "type": "CDD",
+      "salary": 10000,
+      "experience": 4,
+      "createdAt": "2026-10-20",
+      "description": "Gestion des serveurs Linux, sauvegardes et supervision du réseau."
+    }
+  ]
+}
